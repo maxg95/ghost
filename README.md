@@ -1,4 +1,4 @@
-# Ghost of Kyiv - Game README
+# Ghost of Kyiv - README
 
 ## Overview
 
