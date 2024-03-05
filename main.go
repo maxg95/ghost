@@ -1,5 +1,5 @@
 package main
-f
+
 import (
 	"fmt"
 	"image/color"
