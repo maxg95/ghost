@@ -1,5 +1,5 @@
 # Ghost of Kyiv - README
-
+-x
 ## Overview
 
 "Ghost of Kyiv" is a simple 2D shooter game developed in the Go programming language using the Ebiten game library. The game features different modes, including a competition mode and a story mode. The player controls a character to shoot enemies, collect power-ups, and navigate through levels. The game supports multiple languages, including English and Ukrainian.
