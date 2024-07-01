@@ -1,7 +1,7 @@
 FROM golang:1.20
 
 WORKDIR /app
-///
+
 RUN apt-get update && apt-get install -y \
     libx11-dev \
     libasound2-dev \
